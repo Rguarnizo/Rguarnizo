@@ -3,7 +3,9 @@
 <table>
   <tr>
     <td>
-       I'm current study *Systems Engineer* in **National University of Colombia.** [UNAL](https://unal.edu.co/) 📚✏️
+
+I'm current study *Systems Engineer* in **National University of Colombia.** [UNAL📚](https://unal.edu.co/)
+      
 
   I'm interesting in use *Technology* in benefit to **Humanity** 🌎✨
 
