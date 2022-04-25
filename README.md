@@ -3,7 +3,8 @@
 <img src="Octocats/studentcat.png" align="right" width=300 ><img/>
   \<Hello World!>
 
-  I'm current study Systems Engineer in National University of Colombia 
-<img src="UN.png" width=40>
+  I'm current study *Systems Engineer* in **National University of Colombia.**
+
+  I'm interesting in use *Technology* in benefit to **Humanity**
 
 
