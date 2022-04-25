@@ -3,6 +3,6 @@
 <img src="Octocats/studentcat.png" align="right" width=300 ><img/>
 Arigato! I am a Student of Systems Engineer in National University of Colombia.
 
-<img src="un.png" width=40>
+<img src="UN.png" width=40>
 
 
