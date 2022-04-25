@@ -14,7 +14,7 @@ I'm current study *Systems Engineer* in **National University of Colombia.** [UN
   I like a lot collaborate in **interesting projects**, let me know if you has one. 👌🏼
     </td>
     <td>
-      <img src="Octocats/studentcat.png" align="right" width=400  ><img/>
+      <img src="Octocats/studentcat.png" align="right" width=300  ><img/>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img align="right" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -28,7 +28,7 @@ I'm current study *Systems Engineer* in **National University of Colombia.** [UN
   <tr>
     <td>
        <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=rguarnizo&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D" width=350/>
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=rguarnizo&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D" width=600/>
 </a>
     </td>
     <td>
