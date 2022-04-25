@@ -3,8 +3,6 @@
 <img src="Octocats/studentcat.png" align="right" width=300 ><img/>
   \<Hello World!>
 
-  I'm Rubén Darío!
-
   I'm current study Systems Engineer in National University of Colombia 
 <img src="UN.png" width=40>
 
