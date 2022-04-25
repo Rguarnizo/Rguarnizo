@@ -28,7 +28,7 @@ I'm current study *Systems Engineer* in **National University of Colombia.** [UN
   <tr>
     <td>
        <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=rguarnizo&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D" width=450/>
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=rguarnizo&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D" width=350/>
 </a>
     </td>
     <td>
