@@ -11,4 +11,26 @@
 
   I like a lot collaborate in **interesting projects**, let me know if you has one. 👌🏼
 
+  ---
+
+  ## Experience in:
+
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rguarnizo&show_icons=true&locale=en" alt="rguarnizo" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rguarnizo&" alt="rguarnizo" /></p>
+  
+
+
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nda93skbfbzl9rkjwspds7ta&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+
+\<Bye World!>
