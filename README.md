@@ -15,12 +15,16 @@ I'm current study *Systems Engineer* in **National University of Colombia.** [UN
     </td>
     <td>
       <img src="Octocats/studentcat.png"  width=350  ><img/>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    </td>
+  </tr>
+  <tr>
+  <td>
+         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-    </td>
+  </td>
   </tr>
 </table>
 
