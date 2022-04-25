@@ -24,10 +24,20 @@
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 
+  <img href="https://spotify-github-profile.vercel.app/api/view?uid=0nda93skbfbzl9rkjwspds7ta&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
   
- 
+  
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=0nda93skbfbzl9rkjwspds7ta&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
+</a>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rguarnizo&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+  
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=rguarnizo&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+
+
 
 
   ![mishmanners snake gif](/github-contribution-grid-snake.svg)
@@ -36,4 +46,3 @@
 
 
 
-I love electronic music, look what I'm listening to, I also create music, soon you will be able to listen to it ❤️ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nda93skbfbzl9rkjwspds7ta&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
